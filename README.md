@@ -31,4 +31,4 @@ This is a basic health symptom checker chatbot built using *Amazon Lex* and *AWS
 ---
 
 ### 🤝 Created By:
-[Your Name] – Aspiring Cloud/AI Developer
+[Lidesh Chevvakula] – Aspiring Cloud/AI Developer
